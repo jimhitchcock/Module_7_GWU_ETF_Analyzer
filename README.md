@@ -4,7 +4,7 @@
 
 **A Jupyter notebook that contains analysis of 4 stocks in a SQLITE database for the period of 12/16/2016-12/4/2020.  This analysis is complete with professionally styled and formatted intereactive visualizations.  Included are the daily returns, average daily returns, annualized daily returns and cumulative returns for all 4 stocks combined in the ETF.**
 
-![Line graph](https://github.com/jimhitchcock/Module_7_GWU_ETF_Analyzer.git.png)
+![Line graph](https://github.com/jimhitchcock/Module_7_GWU_ETF_Analyzer/blob/main/screenshot.png)
 
 ---
 
